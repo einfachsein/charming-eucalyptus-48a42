@@ -284,7 +284,7 @@ models:
         description: The image shown in the single post.
       - type: string
         name: image_alt
-        label: Image Alt Text (Single Post)
+        label: Image Alt Text (Einzel-Beitrag)
         description: The alt text of the single post image.
       - type: string
         name: excerpt
