@@ -632,7 +632,7 @@ models:
         description: The image of the testimonial author.
       - type: string
         name: avatar_alt
-        label: Autoren-Bild
+        label: Alternativtext Autoren-Bild
         description: The alt text of the testimonial author image.
       - type: string
         name: content
