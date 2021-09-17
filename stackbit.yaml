@@ -409,7 +409,7 @@ models:
         required: true
   section_grid:
     type: object
-    label: Grid-Abscvhnittection
+    label: Grid-Abschnitt
     extends:
       - section
     fields:
