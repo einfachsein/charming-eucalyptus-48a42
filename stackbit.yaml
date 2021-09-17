@@ -528,7 +528,7 @@ models:
         description: The subtitle of the section.
       - type: enum
         name: col_number
-        label: Columns
+        label: Spalten
         description: The number of testimonials in a row.
         options:
           - two
