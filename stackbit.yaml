@@ -466,7 +466,7 @@ models:
         description: The subtitle of the section.
       - type: enum
         name: layout_style
-        label: Layout Style
+        label: Layout-Stil
         description: The layout style of the projects section.
         options:
           - mosaic
