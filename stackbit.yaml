@@ -544,7 +544,7 @@ models:
             - testimonial
   action:
     type: object
-    label: Action
+    label: Aktion
     labelField: label
     fields:
       - type: string
