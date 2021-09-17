@@ -140,7 +140,7 @@ models:
         default: true
       - type: list
         name: sections
-        label: Sectionen
+        label: Sektionen
         description: Page sections
         items:
           type: model
