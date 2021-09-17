@@ -272,7 +272,7 @@ models:
         required: true
       - type: image
         name: thumb_image
-        label: Bild (Blog Feed)
+        label: Bild (Blog)
         description: The image shown in the blog feed.
       - type: string
         name: thumb_image_alt
