@@ -387,7 +387,7 @@ models:
         description: The text content of the section.
       - type: string
         name: form_id
-        label: Form ID
+        label: Formular-ID
         description: A unique identifier of the form. Must not contain whitespace.
         required: true
       - type: string
