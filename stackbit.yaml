@@ -373,7 +373,7 @@ models:
         description: The text content of the section.
   section_form:
     type: object
-    label: Form Section
+    label: Formular-Abschnitt
     extends:
       - section
     fields:
