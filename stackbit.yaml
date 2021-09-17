@@ -479,7 +479,7 @@ models:
         required: true
       - type: string
         name: view_all_label
-        label: All projects button-Titel
+        label: utton-Titel
         description: The text displayed inside the button.
       - type: string
         name: view_all_url
