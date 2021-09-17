@@ -678,7 +678,7 @@ models:
         default: false
   stackbit_page_meta:
     type: object
-    label: Meta data
+    label: Metadata
     fields:
       - type: string
         name: title
