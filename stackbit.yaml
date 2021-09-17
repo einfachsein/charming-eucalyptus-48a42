@@ -345,7 +345,7 @@ models:
         description: The title of the section.
       - type: string
         name: section_id
-        label: Element ID
+        label: Element-ID
         description: >-
           A unique identifier that can be used when linking to this section.
           Must not contain whitespace.
