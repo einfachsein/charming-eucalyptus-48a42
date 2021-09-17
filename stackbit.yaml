@@ -78,7 +78,7 @@ models:
         description: The logo image displayed in the header.
       - type: string
         name: logo_img_alt
-        label: Logo Image Alt Text
+        label: Logo-Bild Alternativtext
         description: The alt text of the logo image.
       - type: boolean
         name: has_nav
