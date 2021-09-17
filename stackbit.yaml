@@ -369,7 +369,7 @@ models:
         description: The alt text of the section image.
       - type: markdown
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the section.
   section_form:
     type: object
