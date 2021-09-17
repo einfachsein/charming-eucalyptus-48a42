@@ -409,7 +409,7 @@ models:
         required: true
   section_grid:
     type: object
-    label: Grid Section
+    label: Grid-Abscvhnittection
     extends:
       - section
     fields:
