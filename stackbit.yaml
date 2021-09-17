@@ -328,7 +328,7 @@ models:
         description: The image shown in the single project.
       - type: string
         name: image_alt
-        label: Alternativtext Bild (Single Project)
+        label: Alternativtext Bild (Einzel-Projekt)
         description: The alt text of the single project image.
       - type: model
         name: seo
