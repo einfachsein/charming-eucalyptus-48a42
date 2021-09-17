@@ -240,7 +240,7 @@ models:
         description: The text shown just below the page title.
       - type: image
         name: image
-        label: äb8od
+        label: Bild
         description: The image shown below the page title and subtitle.
       - type: string
         name: image_alt
