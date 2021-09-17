@@ -439,7 +439,7 @@ models:
             - grid_item
   section_hero:
     type: object
-    label: Hero Section
+    label: Hero-Abschnitt
     extends:
       - section
     fields:
