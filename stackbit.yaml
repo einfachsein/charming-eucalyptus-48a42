@@ -585,7 +585,7 @@ models:
         default: false
       - type: boolean
         name: no_follow
-        label: Nicht folgen
+        label: Nicht-Folgen
         default: false
         description: Add rel="nofollow" attribute to the link
   grid_item:
