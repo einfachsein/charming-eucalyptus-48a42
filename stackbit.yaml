@@ -599,7 +599,7 @@ models:
         description: The title of the grid item.
       - type: image
         name: image
-        label: Image
+        label: Bild
         description: The image of the grid item.
       - type: string
         name: image_alt
