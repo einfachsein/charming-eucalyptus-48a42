@@ -1,5 +1,5 @@
 ---
-title: Project Title 3
+title: Projekttitel 3
 subtitle: Optionaler Untertitel
 date: '2019-04-08'
 thumb_image: images/muell.jpeg
