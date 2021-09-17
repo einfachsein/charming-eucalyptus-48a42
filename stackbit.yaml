@@ -590,7 +590,7 @@ models:
         description: Add rel="nofollow" attribute to the link
   grid_item:
     type: object
-    label: Grid Item
+    label: Raster-Element
     labelField: title
     fields:
       - type: string
