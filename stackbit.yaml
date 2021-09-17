@@ -623,7 +623,7 @@ models:
     fields:
       - type: string
         name: author
-        label: Author
+        label: Autor
         description: The author of the testimonial.
         required: true
       - type: image
