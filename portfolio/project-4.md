@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: Projekttitel 4
 subtitle: Optionaler Untertitel
 date: '2019-02-26'
 thumb_image: images/waldlaeufer-ca3c62db.jpeg
