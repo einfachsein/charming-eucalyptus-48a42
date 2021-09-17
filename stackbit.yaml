@@ -405,7 +405,7 @@ models:
             - form_field
       - type: string
         name: submit_label
-        label: Titel Button Label
+        label: Titel Button Versenden
         required: true
   section_grid:
     type: object
