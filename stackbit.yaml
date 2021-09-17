@@ -379,7 +379,7 @@ models:
     fields:
       - type: string
         name: subtitle
-        label: Subtitle
+        label: Untertitel
         description: The subtitle of the section.
       - type: markdown
         name: content
