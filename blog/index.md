@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Das ist die Blog-Seite
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
