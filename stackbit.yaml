@@ -581,7 +581,7 @@ models:
         default: dribbble
       - type: boolean
         name: new_window
-        label: Should the link open a new tab/window
+        label: Soll der Link in einem neuen Tab/indow
         default: false
       - type: boolean
         name: no_follow
