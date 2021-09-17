@@ -316,7 +316,7 @@ models:
         required: true
       - type: image
         name: thumb_image
-        label: Image (Portfolio)
+        label: Bild (Portfolio)
         description: The image shown in the portfolio page.
       - type: string
         name: thumb_image_alt
