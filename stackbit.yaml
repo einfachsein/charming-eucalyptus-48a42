@@ -502,7 +502,7 @@ models:
         default: 3
       - type: enum
         name: col_number
-        label: Columns
+        label: Spalten
         description: Anzahl Beiträge in einer Zeile.
         options:
           - two
