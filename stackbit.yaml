@@ -117,7 +117,7 @@ models:
         default: true
       - type: list
         name: social_links
-        label: Social Links
+        label: LiSocial Links
         description: List of social links in the footer.
         items:
           type: model
