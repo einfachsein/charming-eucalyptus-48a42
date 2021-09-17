@@ -1,5 +1,5 @@
 ---
-title: Project Title 6
+title: Projekttitel 6
 subtitle: Optionaler Untertitel
 date: '2018-12-18'
 thumb_image: images/marktplatz.jpeg
