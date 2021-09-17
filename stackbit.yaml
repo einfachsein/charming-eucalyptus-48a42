@@ -456,7 +456,7 @@ models:
             - action
   section_portfolio:
     type: object
-    label: Portfolio Section
+    label: Portfolio-Abschnitt
     extends:
       - section
     fields:
