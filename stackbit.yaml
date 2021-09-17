@@ -125,7 +125,7 @@ models:
             - action
   advanced:
     type: page
-    label: Advanced Page
+    label: Layoutschema Advanced Page
     layout: advanced
     hideContent: true
     fields:
