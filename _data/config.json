@@ -32,17 +32,17 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "neue Seite",
                 "url": "/neue-seite",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
             }
         ]
     },
