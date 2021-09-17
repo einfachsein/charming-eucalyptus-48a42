@@ -475,7 +475,7 @@ models:
         required: true
       - type: number
         name: projects_number
-        label: Number of projects to display
+        label: Anzahl anzuzeigender Projekte
         required: true
       - type: string
         name: view_all_label
