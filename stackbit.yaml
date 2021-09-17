@@ -641,7 +641,7 @@ models:
         required: true
   form_field:
     type: object
-    label: Form Field
+    label: Formularfeld
     labelField: name
     fields:
       - type: enum
