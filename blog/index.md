@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'News, tips and highlights'
+subtitle: 'Neues, Tips and highlights'
 hide_title: false
 col_number: three
 seo:
