@@ -607,7 +607,7 @@ models:
         description: The alt text of the grid image.
       - type: markdown
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the grid item.
       - type: list
         name: actions
