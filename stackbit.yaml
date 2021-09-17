@@ -297,7 +297,7 @@ models:
   project:
     type: page
     urlPath: '/portfolio/{slug}'
-    label: Project
+    label: Projekt
     layout: project
     folder: portfolio
     fields:
