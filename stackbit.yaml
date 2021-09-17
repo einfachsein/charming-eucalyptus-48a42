@@ -636,7 +636,7 @@ models:
         description: The alt text of the testimonial author image.
       - type: string
         name: content
-        label: Content
+        label: Inhalt
         description: The text content of the testimonial.
         required: true
   form_field:
