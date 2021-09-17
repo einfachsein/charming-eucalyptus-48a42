@@ -33,7 +33,7 @@ models:
         description: A square icon that represents your website
       - type: enum
         name: color_scheme
-        label: Color Scheme
+        label: Farbscheme
         description: The color scheme used for the site.
         options:
           - light
