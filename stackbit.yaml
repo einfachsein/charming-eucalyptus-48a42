@@ -511,7 +511,7 @@ models:
         required: true
       - type: list
         name: actions
-        label: Action Buttons
+        label: Aktions-Buttons
         items:
           type: model
           models:
