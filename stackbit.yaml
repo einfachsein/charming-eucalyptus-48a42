@@ -497,7 +497,7 @@ models:
         description: The subtitle of the section.
       - type: number
         name: posts_number
-        label: The number of posts to display.
+        label: Anzahl anzuzeigender Beiträge.
         required: true
         default: 3
       - type: enum
