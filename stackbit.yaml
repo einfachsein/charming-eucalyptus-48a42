@@ -74,7 +74,7 @@ models:
         description: The title displayed in the header if no logo image added.
       - type: image
         name: logo_img
-        label: Logo Image
+        label: Logo-Bild
         description: The logo image displayed in the header.
       - type: string
         name: logo_img_alt
