@@ -628,7 +628,7 @@ models:
         required: true
       - type: image
         name: avatar
-        label: Autor Image
+        label: Autoren-Bild
         description: The image of the testimonial author.
       - type: string
         name: avatar_alt
