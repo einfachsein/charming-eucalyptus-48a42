@@ -38,7 +38,7 @@
             },
             {
                 "label": "neue Seite",
-                "url": "#",
+                "url": "/neue-seite",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
