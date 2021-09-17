@@ -320,7 +320,7 @@ models:
         description: The image shown in the portfolio page.
       - type: string
         name: thumb_image_alt
-        label: Image Alt Text (Portfolio)
+        label: Alternativtext Bild (Portfolio)
         description: The alt text of the portfolio page image.
       - type: image
         name: image
