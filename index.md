@@ -6,7 +6,8 @@ sections:
     type: section_hero
     title: Kerngesund
     content: >-
-      In diesem Abschnitt können ein Untertitel oder ein Slogan stehen. Die empfohlene Länge sind ein bis drei Sätze, aber das ist kein Muss.
+      In diesem Abschnitt können ein Untertitel oder ein Slogan stehen. Die
+      empfohlene Länge sind ein bis drei Sätze, aber das ist kein Muss.
     actions:
       - label: Let's go
         url: /kontakt
@@ -47,7 +48,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Was andere über uns sagen
+    title: Was geht?
     subtitle: Optionaler Untertitel des Abschnitts
     col_number: three
     testimonials:
@@ -84,26 +85,26 @@ seo:
   title: Vorlage für Kerngesund.de
   description: Themevorlage von Stackbit
   extra:
-    - name: "og:type"
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: "og:title"
+    - name: 'og:title'
       value: Themevorlage von Stackbit
       keyName: property
-    - name: "og:description"
+    - name: 'og:description'
       value: Themevorlage von Stackbit
       keyName: property
-    - name: "og:image"
+    - name: 'og:image'
       value: images/exto_preview.png
       keyName: property
       relativeUrl: true
-    - name: "twitter:card"
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: "twitter:title"
+    - name: 'twitter:title'
       value: Themevorlage von Stackbit
-    - name: "twitter:description"
+    - name: 'twitter:description'
       value: Themevorlage von Stackbit
-    - name: "twitter:image"
+    - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
 layout: advanced
