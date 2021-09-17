@@ -42,7 +42,7 @@ models:
         required: true
       - type: enum
         name: accent_color
-        label: Akzent Color
+        label: Akzent-Farbe
         description: The accent color of the site.
         options:
           - pink
