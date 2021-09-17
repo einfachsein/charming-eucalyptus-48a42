@@ -351,7 +351,7 @@ models:
           Must not contain whitespace.
   section_content:
     type: object
-    label: Content Section
+    label: Abschnitt Inhalt
     extends:
       - section
     fields:
