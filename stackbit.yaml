@@ -428,7 +428,7 @@ models:
         required: true
       - type: boolean
         name: is_numbered
-        label: Number the grid items
+        label: Anzahl der Raster-Elemente
         default: false
       - type: list
         name: grid_items
