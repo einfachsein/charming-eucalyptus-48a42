@@ -27,17 +27,17 @@
                 "style": "link"
             },
             {
-                "label": "Kontakt",
-                "url": "/kontakt/",
-                "style": "link"
-            },
-            {
                 "label": "neue Seite",
                 "url": "/neue-seite",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false
+            },
+            {
+                "label": "Kontakt",
+                "url": "/kontakt/",
+                "style": "link"
             },
             {
                 "label": "Style Guide",
