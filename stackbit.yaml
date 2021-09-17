@@ -398,7 +398,7 @@ models:
           default success message.
       - type: list
         name: form_fields
-        label: Form Fields
+        label: Formular-Felder
         items:
           type: model
           models:
