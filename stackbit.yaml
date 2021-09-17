@@ -432,7 +432,7 @@ models:
         default: false
       - type: list
         name: grid_items
-        label: Grid Items
+        label: Raster-Elemente
         items:
           type: model
           models:
