@@ -409,7 +409,7 @@ models:
         required: true
   section_grid:
     type: object
-    label: Grid-Abschnitt
+    label: Raster-Abschnitt
     extends:
       - section
     fields:
