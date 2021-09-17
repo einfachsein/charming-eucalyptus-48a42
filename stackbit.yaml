@@ -518,7 +518,7 @@ models:
             - action
   section_testimonials:
     type: object
-    label: Testimonials Section
+    label: Testimonials-Abschnit
     extends:
       - section
     fields:
