@@ -176,7 +176,7 @@ models:
         description: The text shown just below the page title.
       - type: boolean
         name: hide_title
-        label: Hide page title and subtitle
+        label: Seitentitel und Untertitel verbergen
         default: false
       - type: enum
         name: col_number
