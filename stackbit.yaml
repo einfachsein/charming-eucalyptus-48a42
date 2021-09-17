@@ -324,7 +324,7 @@ models:
         description: The alt text of the portfolio page image.
       - type: image
         name: image
-        label: Bild (Einzel-Beitrag)
+        label: Bild (Einzel-Projekt)
         description: The image shown in the single project.
       - type: string
         name: image_alt
