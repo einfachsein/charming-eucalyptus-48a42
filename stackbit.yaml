@@ -112,7 +112,7 @@ models:
             - action
       - type: boolean
         name: has_social
-        label: Links aktivieren
+        label: Links auf soziale Netzwerke aktivieren
         description: Display social links in the footer.
         default: true
       - type: list
