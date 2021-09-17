@@ -603,7 +603,7 @@ models:
         description: The image of the grid item.
       - type: string
         name: image_alt
-        label: Image Alt Text
+        label: Alternativtext Bild
         description: The alt text of the grid image.
       - type: markdown
         name: content
