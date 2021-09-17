@@ -280,7 +280,7 @@ models:
         description: The alt text of the blog feed image.
       - type: image
         name: image
-        label: Bild (Single Post)
+        label: Bild (Einzel-Beitrag)
         description: The image shown in the single post.
       - type: string
         name: image_alt
