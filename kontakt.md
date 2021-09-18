@@ -57,6 +57,6 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Dies ist die Kontakseite
 layout: advanced
 ---
