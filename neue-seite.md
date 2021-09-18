@@ -1,6 +1,6 @@
 ---
 title: Neue Seite
-subtitle: lorem-ipsum
+subtitle: Testseite
 image_alt: lorem-ipsum
 seo:
   title: ''
