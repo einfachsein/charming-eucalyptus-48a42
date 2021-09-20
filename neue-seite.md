@@ -3,13 +3,14 @@ title: Neue Seite
 subtitle: Testseite
 image_alt: lorem-ipsum
 seo:
-  title: ''
-  description: ''
+  title: ""
+  description: ""
   robots: []
   extra: []
 layout: page
 ---
-## Lorem ipsum
+
+## Nur eine Testseite, am besten wieder löschen
 
 Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
