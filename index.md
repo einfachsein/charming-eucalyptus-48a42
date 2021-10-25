@@ -69,6 +69,7 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
+    subtitle: Wie
   - section_id: latest-posts
     type: section_posts
     title: Neueste Blog-Artikel
