@@ -33,15 +33,15 @@ seo:
       relativeUrl: true
 layout: project
 ---
-Was brauchen wir wirklich wirklich?
+## Was brauchen wir wirklich wirklich?
 
 Warum es sinnvoll ist, möglichst wenig Ballast mitzutragen:
 
 > "A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away." -Antoine de Saint-Exupery
 
-Die wichtigsten Mittel zum Leben:
+## Die wichtigsten Mittel zum Leben: 
 
-1 Luft
+1 Luft 
 
 2 Wärme
 
@@ -49,7 +49,4 @@ Die wichtigsten Mittel zum Leben:
 
 3 b feste Nahrung
 
-4 Bewegung  
-
-
-
+4 Bewegung
