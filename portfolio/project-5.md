@@ -1,5 +1,5 @@
 ---
-title: Wärme und Kälte
+title: Wärme und Kälte regulieren
 subtitle: Barfuß sein trotz sozialer Kälte
 date: '2019-01-05'
 thumb_image: images/brunnen.jpeg
