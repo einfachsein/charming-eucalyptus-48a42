@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 1fach kerngesund
     content: >
-      Kannst du Körpersprache? Wie gehst du mit dir um? Hier findest du Impulse
-      zu Bewegung, Gesundheit und deiner eigenen Natur
+      Wie gehst du mit dir um? Hier findest du Impulse zu Bewegung, Gesundheit
+      und deiner eigenen Natur. #Gleichgewicht #Stabilität #Mobilität
     actions:
       - label: Let's go
         url: /kontakt
