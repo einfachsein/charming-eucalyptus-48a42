@@ -1,5 +1,5 @@
 ---
-title: Project Title 7
+title: Von Kopf bis Fuß bewegen
 subtitle: Optional Project Subtitle
 date: '2018-01-15'
 thumb_image: images/baumwurzeln.jpeg
