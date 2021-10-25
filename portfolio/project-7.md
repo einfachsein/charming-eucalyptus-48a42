@@ -1,6 +1,6 @@
 ---
 title: Von Kopf bis Fuß bewegen
-subtitle: Optional Project Subtitle
+subtitle: Stabilität und Mobilität - Fußschule
 date: '2018-01-15'
 thumb_image: images/baumwurzeln.jpeg
 thumb_image_alt: A black headphones on a yeallow background
