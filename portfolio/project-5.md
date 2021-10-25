@@ -1,5 +1,5 @@
 ---
-title: Projekttitel 5
+title: Wärme und Kälte
 subtitle: Optionaler Untertitel
 date: '2019-01-05'
 thumb_image: images/brunnen.jpeg
