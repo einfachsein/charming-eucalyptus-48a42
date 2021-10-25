@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Ba
     content: >
       Wie gehst du mit dir um? Hier findest du Impulse zu Bewegung, Gesundheit
       und deiner eigenen Natur. #Gleichgewicht #Stabilität #Mobilität
