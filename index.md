@@ -47,7 +47,7 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Was geht?
+    title: Was geht gut?
     subtitle: Optionaler Untertitel des Abschnitts
     col_number: three
     testimonials:
