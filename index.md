@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 1fach kerngesund
-    content: >-
-      In diesem Abschnitt können ein Untertitel oder ein Slogan stehen. Die
-      empfohlene Länge sind ein bis drei Sätze, aber das ist kein Muss.
+    content: >
+      Kannst du Körpersprache? Wie gehst du mit dir um? Hier findest du Impulse
+      zu Bewegung und Gesundheit
     actions:
       - label: Let's go
         url: /kontakt
