@@ -1,5 +1,5 @@
 ---
-title: Projekttitel 1
+title: Luft und Wasser
 subtitle: Optionaler Untertitel
 date: '2019-05-10'
 thumb_image: images/barfuss.jpeg
