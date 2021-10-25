@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Kerngesund
-    content: >-
-      In diesem Abschnitt können ein Untertitel oder ein Slogan stehen. Die
-      empfohlene Länge sind ein bis drei Sätze, aber das ist kein Muss.
+    content: >
+      Wie gehst du mit dir um? Hier findest du Impulse zu Bewegung, Gesundheit
+      und deiner eigenen Natur. #Gleichgewicht #Stabilität #Mobilität
     actions:
       - label: Let's go
         url: /kontakt
@@ -16,40 +15,39 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Aktuelles
-    subtitle: Optionaler Untertitel des Abschnitts
+    subtitle: 'Hundephysio, Barfußschule, Kinder gehen vor, Wasser, soziale Kälte .....'
     projects_number: 6
     view_all_label: Alle ansehen
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Was läuft?
-    subtitle: Optionaler Untertitel des Abschnitts
+    title: Was geht schief?
+    subtitle: WIe gehen wir miteinander friedvoll um?
     col_number: two
     is_numbered: true
     grid_items:
-      - title: Service Titel
+      - title: Kommunikation
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-      - title: Service Titel
+      - title: Kritik
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
-      - title: Service Titel
+      - title: Konflikt
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: Service Titel
+      - title: Innere Haltung
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - section_id: testimonials
     type: section_testimonials
-    title: Was geht?
-    subtitle: Optionaler Untertitel des Abschnitts
+    title: Wie geht es miteinander?
     col_number: three
     testimonials:
       - author: Sean Salazar
@@ -71,6 +69,7 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
+    subtitle: Wie wir uns wertschätzen
   - section_id: latest-posts
     type: section_posts
     title: Neueste Blog-Artikel

@@ -1,6 +1,6 @@
 ---
-title: Projekttitel 6
-subtitle: Optionaler Untertitel
+title: Mobilität von Kindesbeinen an
+subtitle: Vamos und die Detektive
 date: '2018-12-18'
 thumb_image: images/marktplatz.jpeg
 thumb_image_alt: A handheld game console on a yellow background

@@ -1,6 +1,6 @@
 ---
-title: Projekttitel 5
-subtitle: Optionaler Untertitel
+title: Wärme und Kälte regulieren
+subtitle: Barfuß sein trotz sozialer Kälte
 date: '2019-01-05'
 thumb_image: images/brunnen.jpeg
 thumb_image_alt: A white gamepad on a green background

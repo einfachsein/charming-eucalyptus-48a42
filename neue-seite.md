@@ -1,10 +1,10 @@
 ---
-title: Neue Seite
-subtitle: Testseite
+title: Fußnoten
+subtitle: Um die Ecke denken
 image_alt: lorem-ipsum
 seo:
-  title: ""
-  description: ""
+  title: ''
+  description: ''
   robots: []
   extra: []
 layout: page

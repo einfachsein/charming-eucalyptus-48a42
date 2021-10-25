@@ -1,6 +1,6 @@
 ---
-title: Projekttitel 4
-subtitle: Optionaler Untertitel
+title: Einfach bewegen im Alltag
+subtitle: Beseelte Tätigkeiten - Streetwork - soziale Arbeit
 date: '2019-02-26'
 thumb_image: images/waldlaeufer-ca3c62db.jpeg
 thumb_image_alt: A table tennis racket on a pink background
