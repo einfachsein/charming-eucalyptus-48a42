@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Aktuelles
-    subtitle: Optionaler Untertitel des Abschnitts
+    subtitle: Wasser
     projects_number: 6
     view_all_label: Alle ansehen
     view_all_url: portfolio
