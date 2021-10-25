@@ -1,6 +1,6 @@
 ---
 title: Barrierefrei
-subtitle: Optionaler Untertitel
+subtitle: Straßenraum - Lebensqualität ....
 date: '2019-04-30'
 thumb_image: images/trottoir.jpeg
 thumb_image_alt: An orange on a blue background
