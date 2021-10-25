@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Was geht schief?
-    subtitle: Optionaler Untertitel des Abschnitts
+    subtitle: WIe gehen wir miteinander friedvoll um?
     col_number: two
     is_numbered: true
     grid_items:
