@@ -1,10 +1,10 @@
 ---
-title: Neue Seite
+title: Fußnoten
 subtitle: Testseite
 image_alt: lorem-ipsum
 seo:
-  title: ""
-  description: ""
+  title: ''
+  description: ''
   robots: []
   extra: []
 layout: page
