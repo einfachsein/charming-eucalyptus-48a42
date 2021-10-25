@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 1fach kerngesund
-    content: >
-      Kannst du Körpersprache? Wie gehst du mit dir um? Hier findest du Impulse
-      zu Bewegung und Gesundheit
+    content: |
+      Kannst du Körpersprache? Wie gehst du mit dir um? 
+
+      Hier findest du Impulse zu Bewegung und Gesundheit
     actions:
       - label: Let's go
         url: /kontakt
