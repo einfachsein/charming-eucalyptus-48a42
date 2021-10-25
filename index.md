@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Aktuelles
-    subtitle: Wasser
+    subtitle: 'Wasser, Straßenraum, Überfluss, Armut'
     projects_number: 6
     view_all_label: Alle ansehen
     view_all_url: portfolio
