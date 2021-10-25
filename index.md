@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Aktuelles
-    subtitle: 'Straßenraum, Überfluss, Armut, Hundephysio, Barfußschule'
+    subtitle: 'Hundephysio, Barfußschule, Kinder gehen vor, Wasser, soziale Kälte .....'
     projects_number: 6
     view_all_label: Alle ansehen
     view_all_url: portfolio
