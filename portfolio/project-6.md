@@ -1,5 +1,5 @@
 ---
-title: Projekttitel 6
+title: Mobilität von Kindesbeinen an
 subtitle: Optionaler Untertitel
 date: '2018-12-18'
 thumb_image: images/marktplatz.jpeg
