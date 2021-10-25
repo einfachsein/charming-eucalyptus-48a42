@@ -1,5 +1,5 @@
 ---
-title: Projekttitel 2
+title: Barrierefrei
 subtitle: Optionaler Untertitel
 date: '2019-04-30'
 thumb_image: images/trottoir.jpeg
