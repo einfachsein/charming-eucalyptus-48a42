@@ -1,5 +1,5 @@
 ---
-title: Barrierefrei
+title: Gehrecht statt autogerecht
 subtitle: Straßenraum - Lebensqualität ....
 date: '2019-04-30'
 thumb_image: images/trottoir.jpeg
