@@ -1,5 +1,5 @@
 ---
-subtitle: Optionaler Untertitel
+subtitle: Einweg ist ein Weg in die Sackgasse
 date: '2019-04-08'
 thumb_image: images/muell.jpeg
 thumb_image_alt: A yellow retro telephone on a yellow background
