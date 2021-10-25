@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Was läuft?
+    title: Was geht schief?
     subtitle: Optionaler Untertitel des Abschnitts
     col_number: two
     is_numbered: true
