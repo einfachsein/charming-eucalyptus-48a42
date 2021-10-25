@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 1fach kerngesundM
+    title: 1fach kerngesund
     content: >
       Wie gehst du mit dir um? Hier findest du Impulse zu Bewegung, Gesundheit
       und deiner eigenen Natur. #Gleichgewicht #Stabilität #Mobilität
