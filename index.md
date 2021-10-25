@@ -48,7 +48,6 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Was geht gut?
-    subtitle: Optionaler Untertitel des Abschnitts
     col_number: three
     testimonials:
       - author: Sean Salazar
