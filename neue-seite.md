@@ -1,6 +1,6 @@
 ---
 title: Fußnoten
-subtitle: Testseite
+subtitle: Um die Ecke denken
 image_alt: lorem-ipsum
 seo:
   title: ''
