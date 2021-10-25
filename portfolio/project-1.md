@@ -1,5 +1,5 @@
 ---
-title: Luft und Wasser
+title: 'Luft, Wärme und Wasser'
 date: '2019-05-10'
 thumb_image: images/barfuss.jpeg
 thumb_image_alt: 'White, black, and red shoe sole'
