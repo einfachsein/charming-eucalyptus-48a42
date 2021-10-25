@@ -1,6 +1,6 @@
 ---
 title: Gehrecht statt autogerecht
-subtitle: Straßenraum - Lebensqualität ....
+subtitle: Straßenraum - Lebensqualität - Mobilität für alle
 date: '2019-04-30'
 thumb_image: images/trottoir.jpeg
 thumb_image_alt: An orange on a blue background
